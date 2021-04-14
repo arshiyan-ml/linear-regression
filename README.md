@@ -7,3 +7,4 @@ This repo contains data
 - Regularization
   - L1
   - L2
+THis document is now edited
